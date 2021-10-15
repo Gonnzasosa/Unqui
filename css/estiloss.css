@@ -1,0 +1,31 @@
+.carousel-caption{
+      display: inline-block;
+      background-color: ##c0002b ;
+    font-size: 70px;
+    font-weight: 500;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+  }
+  
+  .carousel-caption p {
+    font-size: 18px;
+    top: 2rem;
+  }
+  .slider-btn .btn {
+    background-color: #c0002b;
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    font-size: 1rem;
+  }
+
+.centertext {
+    display: flex;
+    justify-content: center;
+}
